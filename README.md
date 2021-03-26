@@ -1,61 +1,22 @@
-# Title
+# My Password Generator
 
-This is an example file with maximal choices selected.
+My password generator creates a unique, random password for the user.
 
-This is a long description.
-
-## Table of Contents
-
-- [Security](#security)
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-- [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Security
-
-### Any optional sections
 
 ## Background
 
-### Any optional sections
+This is an assignment using an existing base of code. My task was to complete the javascript code to have a working password generating program with the following features:
+* User can choose criteria for which characters to include: uppercase letters, lowercase letters, numbers, and/or special characters.
+* The program can handle incorrect input, and return appropriate messages to the user.
+* User can choose any length for their password between 8 and 128 characters.
 
-## Install
 
-This module depends upon a knowledge of [Markdown]().
+## Link to deployed project
+https://joshtdesign.github.io/my-password-generator/
 
-```
-```
+## Screenshots
+https://github.com/JoshTDesign/my-password-generator/blob/main/assets/screencap1.PNG
 
-### Any optional sections
+https://github.com/JoshTDesign/my-password-generator/blob/main/assets/screencap2.PNG
 
-## Usage
-
-```
-```
-
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
-
-### Any optional sections
-
-## API
-
-### Any optional sections
-
-## More optional sections
-
-## Contributing
-
-See [the contributing file](CONTRIBUTING.md)!
-
-PRs accepted.
-
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-### Any optional sections
-
-## License
-
-[MIT © Richard McRichface.](../LICENSE)
+### Thanks for viewing
