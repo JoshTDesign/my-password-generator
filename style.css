@@ -118,10 +118,6 @@ button[disabled] {
   overflow: hidden;
 }
 
-#password.value {
-  user-select: all; /*forces selection of entire password*/
-}
-
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
